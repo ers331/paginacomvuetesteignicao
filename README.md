@@ -8,13 +8,10 @@ $ git clone <repositorio>
 # Acesse a pasta do projeto no seu (terminal, bash, prompt de comando)
 
 # Instale as dependências
-$ yarn
+$ npm install
 
 # Execute o script "serve"
-$ yarn serve
+$ npm run serve
 
 # O projeto iniciará na porta: 8080
 http://localhost:8080
-
-# Rodar testes unitários
-$ yarn test:unit
