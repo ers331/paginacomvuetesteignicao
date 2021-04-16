@@ -1,24 +1,20 @@
 # pagina-teste-ignicao-digital
 
-## Instalar a Depedencias
-```
-npm install
-```
+<h2>Como Rodar a Pagina</h2>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# Clone o repositório
+$ git clone <repositorio>
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# Acesse a pasta do projeto no seu (terminal, bash, prompt de comando)
 
-### Lints and fixes files
-```
-npm run lint
-```
+# Instale as dependências
+$ yarn
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Execute o script "serve"
+$ yarn serve
+
+# O projeto iniciará na porta: 8080
+http://localhost:8080
+
+# Rodar testes unitários
+$ yarn test:unit
