@@ -1,6 +1,6 @@
 # pagina-teste-ignicao-digital
 
-## Project setup
+## Instalar a Depedencias
 ```
 npm install
 ```
