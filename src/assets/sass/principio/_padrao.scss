@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 1920px;
+    height: 1960px;
+    background: #ffffff;
+    position: relative;
+    font-size: 1.6rem;
+}
+
+
+a {
+    text-decoration: none;
+}
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+  }
+ul {
+    list-style: none;
+}
+input, select,button {
+    outline: 0;
+    border: none;
+    text-transform: none;
+    word-wrap: normal;
+}
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+  }
